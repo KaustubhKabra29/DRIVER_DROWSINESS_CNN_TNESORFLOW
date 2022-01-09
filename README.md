@@ -11,9 +11,7 @@ pip install -r requirements.txt
 (Trained on 10.000 images )
 (accuracy: 0.9974 val_accuracy: 0.9954)
 
-# DATA SET :
-
-http://mrl.cs.vsb.cz/eyedataset
+# For DATA SET and Model Contact on : kaustubhkabra2905@gmail.com 
 
 # Reference:
 1.https://www.youtube.com/watch?v=qwUIFKi4V48
