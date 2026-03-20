@@ -1,4 +1,4 @@
-# DRIVER_DROWSINESS_CNN_TNESORFLOW
+# DRIVER_DROWSINESS_CNN_TENSORFLOW
 
 Driver Drowsiness Detection program with model training and real time detection Run the driver drowsiness for real time detection
 
